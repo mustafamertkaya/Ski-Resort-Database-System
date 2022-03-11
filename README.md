@@ -1,10 +1,6 @@
 # Ski-Resort-Database-System
 Kayak merkezi veritabanı Sistemi
 
-Veritabanı'nın tablolarını oluşturan komutlar 1- ile başlayan dosya içindedir.
-
-Veritabanı'nın verilerini yerleştirdiğimiz komutlar ise 2- ile başlayan dosya içindedir.
-
 Veritabanında yapılan sorgular aşağıdaki gibidir:
 
 a.En az 3 teleferiğin çıktığı pistleri kullanım hakkı olan kişilerin ad ve soyadlarını bulunuz.
